@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorAppLab2</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_sec_number">Enter second number</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="multiply_button">*</string>
+    <string name="divide_button">/</string>
+
+
+</resources>
